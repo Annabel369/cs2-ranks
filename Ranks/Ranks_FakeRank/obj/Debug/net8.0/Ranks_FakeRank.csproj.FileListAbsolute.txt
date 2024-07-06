@@ -1,0 +1,15 @@
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_FakeRank\bin\Debug\net8.0\Ranks_FakeRank.deps.json
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_FakeRank\bin\Debug\net8.0\Ranks_FakeRank.dll
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_FakeRank\bin\Debug\net8.0\Ranks_FakeRank.pdb
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_FakeRank\bin\Debug\net8.0\RanksApi.dll
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_FakeRank\bin\Debug\net8.0\RanksApi.pdb
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_FakeRank\obj\Debug\net8.0\Ranks_FakeRank.csproj.AssemblyReference.cache
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_FakeRank\obj\Debug\net8.0\Ranks_FakeRank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_FakeRank\obj\Debug\net8.0\Ranks_FakeRank.AssemblyInfoInputs.cache
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_FakeRank\obj\Debug\net8.0\Ranks_FakeRank.AssemblyInfo.cs
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_FakeRank\obj\Debug\net8.0\Ranks_FakeRank.csproj.CoreCompileInputs.cache
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_FakeRank\obj\Debug\net8.0\Ranks_Fa.C9EB2A57.Up2Date
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_FakeRank\obj\Debug\net8.0\Ranks_FakeRank.dll
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_FakeRank\obj\Debug\net8.0\refint\Ranks_FakeRank.dll
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_FakeRank\obj\Debug\net8.0\Ranks_FakeRank.pdb
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_FakeRank\obj\Debug\net8.0\ref\Ranks_FakeRank.dll
