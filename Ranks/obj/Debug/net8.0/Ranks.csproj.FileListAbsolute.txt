@@ -1,0 +1,30 @@
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks\bin\Debug\net8.0\Ranks.deps.json
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks\bin\Debug\net8.0\Ranks.dll
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks\bin\Debug\net8.0\Ranks.pdb
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks\bin\Debug\net8.0\RanksApi.dll
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks\bin\Debug\net8.0\RanksApi.pdb
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks\obj\Debug\net8.0\Ranks.csproj.AssemblyReference.cache
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks\obj\Debug\net8.0\Ranks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks\obj\Debug\net8.0\Ranks.AssemblyInfoInputs.cache
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks\obj\Debug\net8.0\Ranks.AssemblyInfo.cs
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks\obj\Debug\net8.0\Ranks.csproj.CoreCompileInputs.cache
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks\obj\Debug\net8.0\Ranks.csproj.Up2Date
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks\obj\Debug\net8.0\Ranks.dll
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks\obj\Debug\net8.0\refint\Ranks.dll
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks\obj\Debug\net8.0\Ranks.pdb
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks\obj\Debug\net8.0\ref\Ranks.dll
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks\bin\Debug\net8.0\Ranks.deps.json
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks\bin\Debug\net8.0\Ranks.dll
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks\bin\Debug\net8.0\Ranks.pdb
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks\bin\Debug\net8.0\RanksApi.dll
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks\bin\Debug\net8.0\RanksApi.pdb
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks\obj\Debug\net8.0\Ranks.csproj.AssemblyReference.cache
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks\obj\Debug\net8.0\Ranks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks\obj\Debug\net8.0\Ranks.AssemblyInfoInputs.cache
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks\obj\Debug\net8.0\Ranks.AssemblyInfo.cs
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks\obj\Debug\net8.0\Ranks.csproj.CoreCompileInputs.cache
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks\obj\Debug\net8.0\Ranks.csproj.Up2Date
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks\obj\Debug\net8.0\Ranks.dll
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks\obj\Debug\net8.0\refint\Ranks.dll
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks\obj\Debug\net8.0\Ranks.pdb
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks\obj\Debug\net8.0\ref\Ranks.dll
