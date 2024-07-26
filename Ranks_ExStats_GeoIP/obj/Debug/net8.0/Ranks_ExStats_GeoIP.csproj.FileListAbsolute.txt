@@ -1,0 +1,15 @@
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_GeoIP\bin\Debug\net8.0\Ranks_ExStats_GeoIP.deps.json
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_GeoIP\bin\Debug\net8.0\Ranks_ExStats_GeoIP.dll
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_GeoIP\bin\Debug\net8.0\Ranks_ExStats_GeoIP.pdb
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_GeoIP\bin\Debug\net8.0\RanksApi.dll
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_GeoIP\bin\Debug\net8.0\RanksApi.pdb
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_GeoIP\obj\Debug\net8.0\Ranks_ExStats_GeoIP.csproj.AssemblyReference.cache
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_GeoIP\obj\Debug\net8.0\Ranks_ExStats_GeoIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_GeoIP\obj\Debug\net8.0\Ranks_ExStats_GeoIP.AssemblyInfoInputs.cache
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_GeoIP\obj\Debug\net8.0\Ranks_ExStats_GeoIP.AssemblyInfo.cs
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_GeoIP\obj\Debug\net8.0\Ranks_ExStats_GeoIP.csproj.CoreCompileInputs.cache
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_GeoIP\obj\Debug\net8.0\Ranks_Ex.D105D711.Up2Date
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_GeoIP\obj\Debug\net8.0\Ranks_ExStats_GeoIP.dll
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_GeoIP\obj\Debug\net8.0\refint\Ranks_ExStats_GeoIP.dll
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_GeoIP\obj\Debug\net8.0\Ranks_ExStats_GeoIP.pdb
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_GeoIP\obj\Debug\net8.0\ref\Ranks_ExStats_GeoIP.dll
