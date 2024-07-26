@@ -1,0 +1,30 @@
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_ExStats_Hits\obj\Debug\net8.0\Ranks_ExStats_Hits.csproj.AssemblyReference.cache
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_ExStats_Hits\obj\Debug\net8.0\Ranks_ExStats_Hits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_ExStats_Hits\obj\Debug\net8.0\Ranks_ExStats_Hits.AssemblyInfoInputs.cache
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_ExStats_Hits\obj\Debug\net8.0\Ranks_ExStats_Hits.AssemblyInfo.cs
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_ExStats_Hits\obj\Debug\net8.0\Ranks_ExStats_Hits.csproj.CoreCompileInputs.cache
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_ExStats_Hits\bin\Debug\net8.0\Ranks_ExStats_Hits.deps.json
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_ExStats_Hits\bin\Debug\net8.0\Ranks_ExStats_Hits.dll
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_ExStats_Hits\bin\Debug\net8.0\Ranks_ExStats_Hits.pdb
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_ExStats_Hits\bin\Debug\net8.0\RanksApi.dll
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_ExStats_Hits\bin\Debug\net8.0\RanksApi.pdb
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_ExStats_Hits\obj\Debug\net8.0\Ranks_Ex.FBEED24A.Up2Date
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_ExStats_Hits\obj\Debug\net8.0\Ranks_ExStats_Hits.dll
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_ExStats_Hits\obj\Debug\net8.0\refint\Ranks_ExStats_Hits.dll
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_ExStats_Hits\obj\Debug\net8.0\Ranks_ExStats_Hits.pdb
+C:\Users\amaur\OneDrive\Área de Trabalho\Ranks\Ranks_ExStats_Hits\obj\Debug\net8.0\ref\Ranks_ExStats_Hits.dll
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_Hits\bin\Debug\net8.0\Ranks_ExStats_Hits.deps.json
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_Hits\bin\Debug\net8.0\Ranks_ExStats_Hits.dll
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_Hits\bin\Debug\net8.0\Ranks_ExStats_Hits.pdb
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_Hits\bin\Debug\net8.0\RanksApi.dll
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_Hits\bin\Debug\net8.0\RanksApi.pdb
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_Hits\obj\Debug\net8.0\Ranks_ExStats_Hits.csproj.AssemblyReference.cache
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_Hits\obj\Debug\net8.0\Ranks_ExStats_Hits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_Hits\obj\Debug\net8.0\Ranks_ExStats_Hits.AssemblyInfoInputs.cache
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_Hits\obj\Debug\net8.0\Ranks_ExStats_Hits.AssemblyInfo.cs
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_Hits\obj\Debug\net8.0\Ranks_ExStats_Hits.csproj.CoreCompileInputs.cache
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_Hits\obj\Debug\net8.0\Ranks_Ex.FBEED24A.Up2Date
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_Hits\obj\Debug\net8.0\Ranks_ExStats_Hits.dll
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_Hits\obj\Debug\net8.0\refint\Ranks_ExStats_Hits.dll
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_Hits\obj\Debug\net8.0\Ranks_ExStats_Hits.pdb
+C:\Users\Astral\OneDrive\Desktop\cs2-ranks-main\cs2-ranks-main\Ranks\Ranks_ExStats_Hits\obj\Debug\net8.0\ref\Ranks_ExStats_Hits.dll
