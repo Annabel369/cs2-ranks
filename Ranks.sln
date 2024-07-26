@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ranks", "Ranks\Ranks.csproj", "{CBE40C16-D380-4A5D-9AC2-B63F3196DA59}"
+	ProjectSection(ProjectDependencies) = postProject
+		{84BEAAEE-2DA0-41B7-A9F4-010DF8B60A73} = {84BEAAEE-2DA0-41B7-A9F4-010DF8B60A73}
+		{98617ED2-7EEF-4C0D-B598-A409DF099EFE} = {98617ED2-7EEF-4C0D-B598-A409DF099EFE}
+		{D6433483-65F7-44B0-8F24-785B170CCF9C} = {D6433483-65F7-44B0-8F24-785B170CCF9C}
+		{E734344F-17C1-4735-8D96-5840484A04E6} = {E734344F-17C1-4735-8D96-5840484A04E6}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RanksApi", "RanksApi\RanksApi.csproj", "{A033C291-3642-46E7-A5CA-32FBB1B58A22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ranks_ExStats_GeoIP", "Ranks_ExStats_GeoIP\Ranks_ExStats_GeoIP.csproj", "{84BEAAEE-2DA0-41B7-A9F4-010DF8B60A73}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ranks_ExStats_Hits", "Ranks_ExStats_Hits\Ranks_ExStats_Hits.csproj", "{98617ED2-7EEF-4C0D-B598-A409DF099EFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ranks_Tag", "Ranks_Tag\Ranks_Tag.csproj", "{D6433483-65F7-44B0-8F24-785B170CCF9C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ranks_FakeRank", "Ranks_FakeRank\Ranks_FakeRank.csproj", "{E734344F-17C1-4735-8D96-5840484A04E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBE40C16-D380-4A5D-9AC2-B63F3196DA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE40C16-D380-4A5D-9AC2-B63F3196DA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE40C16-D380-4A5D-9AC2-B63F3196DA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE40C16-D380-4A5D-9AC2-B63F3196DA59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A033C291-3642-46E7-A5CA-32FBB1B58A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A033C291-3642-46E7-A5CA-32FBB1B58A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A033C291-3642-46E7-A5CA-32FBB1B58A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A033C291-3642-46E7-A5CA-32FBB1B58A22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84BEAAEE-2DA0-41B7-A9F4-010DF8B60A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BEAAEE-2DA0-41B7-A9F4-010DF8B60A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BEAAEE-2DA0-41B7-A9F4-010DF8B60A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BEAAEE-2DA0-41B7-A9F4-010DF8B60A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98617ED2-7EEF-4C0D-B598-A409DF099EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98617ED2-7EEF-4C0D-B598-A409DF099EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98617ED2-7EEF-4C0D-B598-A409DF099EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98617ED2-7EEF-4C0D-B598-A409DF099EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6433483-65F7-44B0-8F24-785B170CCF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6433483-65F7-44B0-8F24-785B170CCF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6433483-65F7-44B0-8F24-785B170CCF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6433483-65F7-44B0-8F24-785B170CCF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E734344F-17C1-4735-8D96-5840484A04E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E734344F-17C1-4735-8D96-5840484A04E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E734344F-17C1-4735-8D96-5840484A04E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E734344F-17C1-4735-8D96-5840484A04E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
